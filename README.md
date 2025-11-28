@@ -103,7 +103,8 @@ Clean, modern, easy-to-use layout
 ├── delete_student.py                # Remove student & dataset folder
 
 ├── edit_student.py                  # Edit student info
-│
+
+
 ├── students.csv                     # Student info database (auto created)
 
 ├── face_model.yml                   # Trained LBPH face recognizer (auto)
